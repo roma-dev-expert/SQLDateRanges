@@ -1,0 +1,4 @@
+CREATE TABLE Dates (
+    Id BIGINT NOT NULL,
+    Dt DATE NOT NULL
+);
